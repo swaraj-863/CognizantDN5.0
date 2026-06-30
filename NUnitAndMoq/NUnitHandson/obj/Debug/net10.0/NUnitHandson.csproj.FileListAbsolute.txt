@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\obj\Debug\net10.0\NUnitHandson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\obj\Debug\net10.0\NUnitHandson.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\obj\Debug\net10.0\NUnitHandson.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\obj\Debug\net10.0\NUnitHandson.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\bin\Debug\net10.0\NUnitHandson.deps.json
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\bin\Debug\net10.0\NUnitHandson.dll
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\bin\Debug\net10.0\NUnitHandson.pdb
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\obj\Debug\net10.0\NUnitHandson.dll
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\obj\Debug\net10.0\refint\NUnitHandson.dll
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\obj\Debug\net10.0\NUnitHandson.pdb
+C:\Users\User\OneDrive\Desktop\DN-DotNet-FSE-HandsOn\NUnitAndMoq\NUnitHandson\obj\Debug\net10.0\ref\NUnitHandson.dll
