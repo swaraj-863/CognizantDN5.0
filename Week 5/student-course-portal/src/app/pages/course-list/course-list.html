@@ -1,0 +1,75 @@
+
+<input
+type="text"
+[(ngModel)]="studentInput"
+placeholder="Enter Student Name">
+
+<h2>
+
+Welcome
+
+{{studentInput}}
+
+</h2>
+
+<hr>
+
+<h1>{{studentName}} Course Dashboard</h1>
+
+<h3>Total Credits : {{totalCredits}}</h3>
+
+<hr>
+
+<table border="1" cellpadding="10">
+
+<tr>
+
+<th>ID</th>
+
+<th>Name</th>
+
+<th>Code</th>
+
+<th>Credits</th>
+
+<th>Status</th>
+
+<th>Action</th>
+
+</tr>
+
+<tr *ngFor="let course of courses">
+
+<td>{{course.id}}</td>
+
+<td>{{course.name}}</td>
+
+<td>{{course.code}}</td>
+
+<td>{{course.credits}}</td>
+
+<td>{{course.gradeStatus}}</td>
+
+<td>
+
+<button (click)="enroll(course.name)">
+
+Enroll
+
+</button>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<h2>
+
+Selected Course :
+
+{{selectedCourse}}
+
+</h2>
